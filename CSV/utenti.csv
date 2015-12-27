@@ -1,2 +1,7 @@
-admin;pass;A
-user;pass;U
+admin;pass;nome;A
+user;pass;Utente;U
+tommaso;p;Tommaso;A
+prova;ciao;Mirko;U
+ciccio;ciccio;Giovanni;U
+cate;nutella;Caterina;A
+dea;1997;Andrea;A
